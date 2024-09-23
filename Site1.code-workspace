@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Site1",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../../Code/Chatbot_Tutorial/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Site1"
+	}
+}
